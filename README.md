@@ -1,2 +1,2 @@
 # devops
-Introduction tp DevOps Assignment
+Introduction to DevOps Assignment
